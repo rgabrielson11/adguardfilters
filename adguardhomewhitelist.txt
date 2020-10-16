@@ -1,0 +1,44 @@
+@@||*.local^
+@@||outlook.office.com^$important
+@@||dig.abclocal.go.com^$important
+@@||substrate.office.com^$important
+@@||blobs.officehome.msocdn.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
+@@||graph.facebook.com^$important
+@@||cdn.accounts.nintendo.com^$important
+@@||receive-lp1.dg.srv.nintendo.net^$important
+@@||star.c10r.facebook.com^$important
+@@||www.ebay.com^$important
+@@||na01.safelinks.protection.outlook.com^$important
+@@||m.stripe.network^$important
+@@||onedrive.live.com^$important
+@@||links.customers.instacartemail.com^$important
+@@||*.ebaystatic.com^
+@@||kids.nationalgeographic.com^$important
+@@||teams.events.data.microsoft.com^$important
+amazon.*###desktop-banner
+amazon.com###gw-desktop-herotator
+amazon.*###s-results-list-atf > .s-result-item:has(:scope > .s-item-container h5.s-sponsored-list-header)
+amazon.*###s-results-list-atf > .s-result-item:has(:scope > .s-item-container h5.s-sponsored-header)
+amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-icon)
+||s.youtube.com^
+@@||losangeles-cbslocal-com.cdn.ampproject.org^$important
+@@||static-exp1.licdn.com^$important
+@@||losangeles.cbslocal.com^$important
+@@||www2.grouponcdn.com^$important
+@@||c.travel-assets.com^$important
+@@||fonts.gstatic.com^$important
+@@||configuration.ls.apple.com^$important
+@@||updates-http.cdn-apple.com^$important
+@@||minecraftprod.rtep.msgamestudios.com^$important
+@@||raspberrypi.org^$important
+@@||godaddy.com^$important
+@@||gs-loc.apple.com^$important
+@@||ocsp.apple.com^$important
+@@||cl3.apple.com^$important
+@@||weather-analytics-events.apple.com^$important
+@@||cl5.apple.com^$important
+@@||yildun.iad-03.appboy.com^$important
+@@||ls-apple.com.akadns.net^$important
+@@||ls.apple.com^$important
+@@||www.usatoday.com^$important
