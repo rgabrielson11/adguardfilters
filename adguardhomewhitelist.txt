@@ -45,3 +45,4 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||au.download.windowsupdate.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||slscr.update.microsoft.com^$important
+@@||pandora.app.link^$important
