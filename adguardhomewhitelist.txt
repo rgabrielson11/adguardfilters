@@ -46,4 +46,4 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||settings-win.data.microsoft.com^$important
 @@||slscr.update.microsoft.com^$important
 @@||pandora.app.link^$important
-@@||www.nationalgeographic.com^$important
+@@||nationalgeographic.com^$important
