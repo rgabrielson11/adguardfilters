@@ -47,3 +47,7 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||slscr.update.microsoft.com^$important
 @@||pandora.app.link^$important
 @@||nationalgeographic.com^$important
+@@||xp.apple.com^$important
+@@||pancake.apple.com^$important
+@@||datarouter.ol.epicgames.com^$important
+@@||datarouter-prod.ak.epicgames.com^$important
