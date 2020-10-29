@@ -50,3 +50,7 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||xp.apple.com^$important
 @@||pancake.apple.com^$important
 @@||epicgames.com^$important
+@@||accounts.google.com^$important
+@@||docs.google.com^$important
+@@||play.google.com^$important
+@@||google.com^$important
