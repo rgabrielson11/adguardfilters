@@ -56,3 +56,6 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||google.com^$important
 @@||dominospizza.sc.omtrdc.net^$important
 @@||rt2-t.confirmation.dominos.com^$important
+@@||target.chase.com^$important
+@@||static.chasecdn.com^$important
+
