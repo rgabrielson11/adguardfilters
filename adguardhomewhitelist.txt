@@ -58,4 +58,6 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||rt2-t.confirmation.dominos.com^$important
 @@||target.chase.com^$important
 @@||static.chasecdn.com^$important
+@@||trakt.tv^$important
+@@||telemetry.servers.getgo.com^$important
 
