@@ -60,4 +60,7 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||static.chasecdn.com^$important
 @@||trakt.tv^$important
 @@||telemetry.servers.getgo.com^$important
+@@||js.stripe.com^$important
+@@||checkout.stripe.com^$important
+@@||stripecdn.map.fastly.net^$important
 
