@@ -71,3 +71,5 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||self.events.data.microsoft.com^$important
 @@||wellsfargomedia.com^$important
 @@||www.icloud.com^$important
+@@||login.windows.net^$important
+@@||newaccountredirectdomain.apple.com^$important
