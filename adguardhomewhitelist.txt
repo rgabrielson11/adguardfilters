@@ -65,3 +65,4 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||stripecdn.map.fastly.net^$important
 @@||ampproject.org^$important
 @@||nbcnews.com^$important
+@@||amazonvideo.com^$important
