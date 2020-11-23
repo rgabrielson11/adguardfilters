@@ -66,3 +66,6 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||ampproject.org^$important
 @@||nbcnews.com^$important
 @@||amazonvideo.com^$important
+@@||login.live.com^$important
+@@||login.microsoftonline.com^$important
+@@||self.events.data.microsoft.com^$important
