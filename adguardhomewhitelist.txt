@@ -73,3 +73,10 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||www.icloud.com^$important
 @@||login.windows.net^$important
 @@||newaccountredirectdomain.apple.com^$important
+@@||scontent-lax3-2.xx.fbcdn.net^$important
+@@||edge-mqtt.facebook.com^$important
+@@||fbcdn.net^$important
+@@||facebook.com^$important
+@@||sirius.mwbsys.com^$important
+@@||cdn.mwbsys.com^$important
+@@||telemetry.malwarebytes.com^$important
