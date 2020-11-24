@@ -80,3 +80,7 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||sirius.mwbsys.com^$important
 @@||cdn.mwbsys.com^$important
 @@||telemetry.malwarebytes.com^$important
+@@||augmentation.osi.office.net^$important
+@@||roaming.officeapps.live.com^$important
+@@||locale.roblox.com^$important
+@@||cl4.apple.com^$important
