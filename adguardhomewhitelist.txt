@@ -102,3 +102,5 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||spclient.wg.spotify.com^$important
 @@||images.dsw.com^$important
 @@||www.dsw.com^$important
+@@||somni.dsw.com^$important
+@@||e39664.a.akamaiedge.net^$important
