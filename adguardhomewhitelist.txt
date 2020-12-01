@@ -129,3 +129,11 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||na-eb2.3lift.com^$important
 @@||ow2.res.office365.com^$important
 @@||saa.tvguide.com^$important
+@@||t.confirmation.dominos.com^$important
+@@||dp-gw-na.amazon.com^$important
+@@||dcape-na.amazon.com^$important
+@@||alexa.amazon.com^$important
+@@||authproxy.dominos.com^$important
+@@||ios.prod.http1.netflix.com^$important
+@@||assets.fanart.tv^$important
+@@||device-messaging-na.amazon.com^$important
