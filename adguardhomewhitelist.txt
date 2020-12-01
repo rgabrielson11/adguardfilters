@@ -137,3 +137,14 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||ios.prod.http1.netflix.com^$important
 @@||assets.fanart.tv^$important
 @@||device-messaging-na.amazon.com^$important
+@@||alexa.na.gateway.devices.a2z.com^$important
+@@||pindorama.amazon.com^$important
+@@||avs-alexa-4-na.amazon.com^$important
+@@||esdk-ffl.spotify.com^$important
+@@||dualstack.apiproxy-http1-199106617.us-east-1.elb.amazonaws.com^$important
+@@||prda.aadg.msidentity.com^$important
+@@||avs-alexa-1-na.amazon.com^$important
+@@||kinesis.us-east-1.amazonaws.com^$important
+@@||avs-alexa-4-na.amazon.com^$important
+@@||dp-gw-na.amazon.com^$important
+@@||t.confirmation.dominos.com^$important
