@@ -148,3 +148,16 @@ amazon.*##.s-result-item:has(:scope > .s-item-container > h5 .s-sponsored-info-i
 @@||avs-alexa-4-na.amazon.com^$important
 @@||dp-gw-na.amazon.com^$important
 @@||t.confirmation.dominos.com^$important
+@@||www.mazdausa.com^$important
+@@||iphone-ld.apple.com^$important
+@@||ctldl.windowsupdate.com^$important
+@@||xp.itunes-apple.com.akadns.net^$important
+@@||dc.services.visualstudio.com^$important
+@@||v20.events.data.microsoft.com^$important
+@@||ow1.res.office365.com^$important
+@@||gsas.apple.com^$important
+@@||gsa.apple.com^$important
+@@||config.teams.microsoft.com^$important
+@@||steamcommunity-a.akamaihd.net^$important
+@@||officedepot.com^$important
+@@||gabfam.com^$important
